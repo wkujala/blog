@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Indeterminate Negations</title>
+    <link>https://wkujala.github.io/blog/</link>
+    <description>Recent content in Home on Indeterminate Negations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Apr 2022 23:54:00 -0600</lastBuildDate><atom:link href="https://wkujala.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://wkujala.github.io/blog/about/</link>
+      <pubDate>Sun, 17 Apr 2022 01:46:59 -0600</pubDate>
+      
+      <guid>https://wkujala.github.io/blog/about/</guid>
+      <description>I&amp;rsquo;m a PhD candidate in Political Science. I wrote my dissertation on the concept of &amp;ldquo;domestic colonialism&amp;rdquo; in the United States, asking whether it could (or should) be reconstructed as an element of anticolonial critical theory today.
+My research and reading interests are in:
+ Empire, race, and colonialism in political theory Philosophy and history of social science Dialectical philosophy and its relation to philosophy of history Twentieth-century engagements with radicalism in political theory  </description>
+    </item>
+    
+    <item>
+      <title>Robert Jackson&#39;s Quasi-Colonial Apologetics</title>
+      <link>https://wkujala.github.io/blog/posts/post1/</link>
+      <pubDate>Sat, 16 Apr 2022 23:54:00 -0600</pubDate>
+      
+      <guid>https://wkujala.github.io/blog/posts/post1/</guid>
+      <description>It really is curious just how little work there is directly bearing on the history and theory of decolonization in twentieth-century international relations theory. Because the histories and explanations of particular decolonizing situations &amp;ndash; say, in Malaysia, or Ghana, or Algeria, etc. &amp;ndash; are handed off to historians and students of comparative politics, all that&amp;rsquo;s left for IR theory is, typically, the question of how decolonization both expanded and transformed the international system.</description>
+    </item>
+    
+  </channel>
+</rss>
