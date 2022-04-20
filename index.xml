@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Indeterminate Negations</title>
+    <title>Home on Prefaces and Postscripts</title>
     <link>https://wkujala.github.io/blog/</link>
-    <description>Recent content in Home on Indeterminate Negations</description>
+    <description>Recent content in Home on Prefaces and Postscripts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 23:54:00 -0600</lastBuildDate><atom:link href="https://wkujala.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 01:27:36 -0600</lastBuildDate><atom:link href="https://wkujala.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robert Denoon Cumming on Sartrean Dialectics</title>
+      <link>https://wkujala.github.io/blog/posts/post2/</link>
+      <pubDate>Wed, 20 Apr 2022 01:27:36 -0600</pubDate>
+      
+      <guid>https://wkujala.github.io/blog/posts/post2/</guid>
+      <description>Robert Denoon Cumming&amp;rsquo;s article &amp;ldquo;This Place of Violence, Obscurity, and Witchcraft&amp;rdquo; (1979) is a hidden gem. Utterly bizarre in style, it presents Sartre&amp;rsquo;s understanding of dialectics really nicely, in almost point form.
+The first thing, noted by Sartre himself, is that dialectics is less a systematic philosophy or explanation of how things work, but a way (methodos) of making things intelligible. The question is how.
+Cumming starts on a point I find particularly seductive: the idea of dialectic as &amp;ldquo;a method of sustained definition.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://wkujala.github.io/blog/about/</link>

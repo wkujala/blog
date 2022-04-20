@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wkujala.github.io/blog/about/</loc>
-    <lastmod>2022-04-17T01:46:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wkujala.github.io/blog/</loc>
-    <lastmod>2022-04-16T23:54:00-06:00</lastmod>
+    <lastmod>2022-04-20T01:27:36-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://wkujala.github.io/blog/posts/</loc>
-    <lastmod>2022-04-16T23:54:00-06:00</lastmod>
+    <lastmod>2022-04-20T01:27:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wkujala.github.io/blog/posts/post2/</loc>
+    <lastmod>2022-04-20T01:27:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wkujala.github.io/blog/about/</loc>
+    <lastmod>2022-04-17T01:46:59-06:00</lastmod>
   </url>
   
   <url>
